@@ -25,7 +25,7 @@ def run_bot(name, url, delay):
 
 # --- URL Groups ---
 urls_3sec = [
-    "https://earnifyteam.xyz/4sec1.php",
+    "https://siyamonline.xyz/4sec1.php",
     "https://siyamonline.xyz/4sec2.php",
     "https://siyamonline.xyz/4sec3.php",
     "https://siyamonline.xyz/4sec4.php",
@@ -33,7 +33,7 @@ urls_3sec = [
     "https://siyamonline.xyz/4sec6.php",
     "https://siyamonline.xyz/4sec7.php",
     "https://siyamonline.xyz/4sec8.php",
-    "https://earnifyteam.xyz/4sec9.php",
+    "https://siyamonline.xyz/4sec9.php",
     "https://siyamonline.xyz/4sec12.php",
     "https://siyamonline.xyz/4sec13.php",
     "https://siyamonline.xyz/4sec14.php",
