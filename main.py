@@ -36,13 +36,13 @@ urls_3sec = [
     "https://siyamonline.xyz/4sec9.php",
     "https://siyamonline.xyz/4sec12.php",
     "https://siyamonline.xyz/4sec13.php",
-    "https://siyamonline.xyz/4sec14.php",
-    "https://siyamonline.xyz/4sec15.php",
+    "https://earnifyteam.xyz/4sec2.php",
+    "https://siyamonline.xyz/4sec11.php",
 ]
 
 special_bots = [
     {"name": "jimkar bot", "url": "https://siyamonline.xyz/4sec10.php", "delay": 3},
-    {"name": "talhannc bot", "url": "https://siyamonline.xyz/4sec11.php", "delay": 2},
+    {"name": "talhannc bot", "url": "https://earnifyteam.xyz/4sec1.php", "delay": 2},
 ]
 
 # --- Execution ---
